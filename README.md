@@ -1,3 +1,14 @@
+/******************************************************/
+author : saikat kumar das (saikat.das1@iiitb.org)
+		 SMT2017016
+Topic  : Contour and Texture Analysis for Image Segmentation 
+Date   : 2018
+/*****************************************************/
+=======================================================					
+						README
+=======================================================
+
+
 # LeungMalikSegmentation
 Implementation of "Contour and Texture Analysis for Image Segmentation" by Malik et al. (2001)
 Work In Progress
@@ -24,3 +35,8 @@ folder containing input images
 results
 **************************
 folder containing results of the sample images
+
+**************************
+code_sources
+**************************
+some available codes used in this project
