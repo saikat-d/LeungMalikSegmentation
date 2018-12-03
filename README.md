@@ -37,6 +37,14 @@ results
 folder containing results of the sample images
 
 **************************
+documents
+**************************
+Project_Report.pdf -->>> Project Report
+PPTs that were made during project progress
+original paper and refernces
+
+
+**************************
 code_sources
 **************************
 some available codes used in this project
